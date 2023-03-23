@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying computer science **at IIITV-ICD**
 
-- 👯 I’m currently working on **Chat Application using React JS**
+- 👯 I’m currently working on **Ecommerce Website**
 
 - 📫 How to reach me **Aadityashakle18@gmail.com**
 
