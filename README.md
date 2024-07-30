@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya Shakle</h1>
-<h3 align="center">A MERN Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Aditya Kumar Shakle</h1>
+<h3 align="center">A Software Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shakle_aaditya" target="blank"><img src="https://img.shields.io/twitter/follow/shakle_aaditya?logo=twitter&style=for-the-badge" alt="shakle_aaditya" /></a> </p>
 
-- 🔭 I’m currently studying computer science **at IIITV-ICD**
+- 🔭 I’m computer science student **at IIIT Vadodara ICD**
 
 - 📫 How to reach me **aadityashakle18@gmail.com**
 
